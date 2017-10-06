@@ -264,11 +264,11 @@ namespace UnityEngine.XR.iOS
 
 		public void dropdown (int index) {
 			if (index == 1) {
-				totalStraight = 10 + index;
-				totalLeft = 10 + index;
+				totalStraight = 10;
+				totalLeft = 10;
 			} else if (index == 2) {
-				totalStraight = 10 + index;
-				totalLeft = 10 + index;
+				totalStraight = 26;
+				totalLeft = 28;
 			} else {
 				totalStraight = 10 + index;
 				totalLeft = 10 + index;

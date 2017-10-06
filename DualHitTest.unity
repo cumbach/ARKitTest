@@ -1594,7 +1594,7 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Women's Clothing
       m_Image: {fileID: 0}
-    - m_Text: Shoes
+    - m_Text: Toys
       m_Image: {fileID: 0}
     - m_Text: Accessories
       m_Image: {fileID: 0}
@@ -1612,7 +1612,7 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Video Games
       m_Image: {fileID: 0}
-    - m_Text: Toys
+    - m_Text: Shoes
       m_Image: {fileID: 0}
     - m_Text: Sports
       m_Image: {fileID: 0}
